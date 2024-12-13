@@ -1,0 +1,62 @@
+[
+    {
+        "column": "date",
+        "memory_usage_mb": 101.51619720458984,
+        "memory_share": 0.26665108087759504,
+        "data_type": "datetime64[ns]"
+    },
+    {
+        "column": "amount",
+        "memory_usage_mb": 50.75815963745117,
+        "memory_share": 0.13332570075893196,
+        "data_type": "float32"
+    },
+    {
+        "column": "merchant_id",
+        "memory_usage_mb": 50.75815963745117,
+        "memory_share": 0.13332570075893196,
+        "data_type": "int32"
+    },
+    {
+        "column": "zip",
+        "memory_usage_mb": 50.75815963745117,
+        "memory_share": 0.13332570075893196,
+        "data_type": "float32"
+    },
+    {
+        "column": "merchant_state",
+        "memory_usage_mb": 25.399161338806152,
+        "memory_share": 0.06671559820870507,
+        "data_type": "category"
+    },
+    {
+        "column": "client_id",
+        "memory_usage_mb": 25.379140853881836,
+        "memory_share": 0.06666301069960044,
+        "data_type": "int16"
+    },
+    {
+        "column": "card_id",
+        "memory_usage_mb": 25.379140853881836,
+        "memory_share": 0.06666301069960044,
+        "data_type": "int16"
+    },
+    {
+        "column": "mcc",
+        "memory_usage_mb": 25.379140853881836,
+        "memory_share": 0.06666301069960044,
+        "data_type": "int16"
+    },
+    {
+        "column": "errors",
+        "memory_usage_mb": 12.691883087158203,
+        "memory_share": 0.033337579979894956,
+        "data_type": "category"
+    },
+    {
+        "column": "use_chip",
+        "memory_usage_mb": 12.689946174621582,
+        "memory_share": 0.03333249232062799,
+        "data_type": "category"
+    }
+]
